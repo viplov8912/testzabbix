@@ -1,0 +1,30 @@
+Database closed.
+Database dismounted.
+ORACLE instance shut down.
+ORACLE instance started.
+
+Total System Global Area 1486569472 bytes                                       
+Fixed Size                  2175848 bytes                                       
+Variable Size             520096920 bytes                                       
+Database Buffers          956301312 bytes                                       
+Redo Buffers                7995392 bytes                                       
+
+Database altered.
+
+Database log mode              Archive Mode
+Automatic archival             Enabled
+Archive destination            D:\Archivelogfiles
+Oldest online log sequence     542
+Next log sequence to archive   544
+Current log sequence           544
+ORA-00279: change 352858220 generated at 04/28/2020 18:00:12 needed for thread
+1
+ORA-00289: suggestion : D:\ARCHIVELOGFILES\FLEXNETT948814117157994.ARC
+ORA-00280: change 352858220 for thread 1 is in sequence #157994
+ORA-00278: log file 'D:\ARCHIVELOGFILES\FLEXNETT948814117157994.ARC' no longer
+needed for this recovery
+ORA-00308: cannot open archived log
+'D:\ARCHIVELOGFILES\FLEXNETT948814117157994.ARC'
+ORA-27041: unable to open file
+OSD-04002: unable to open file
+O/S-Error: (OS 2) The system cannot find the file specified. 
